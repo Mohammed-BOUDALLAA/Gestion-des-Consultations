@@ -21,9 +21,9 @@ Développer une interface graphique pour **ajouter, modifier, supprimer et affic
 
 ## 🎥 Captures d'écran
 - Ajout d'un patient
-![Ajout](Imgs/patient.png)
+![Ajout](gestion-consultation/Imgs/patient.png)
 - Ajouter une consultation
-![Ajout](Imgs/Cstions.png)
+![Ajout](gestion-consultation/Imgs/Cstions.png)
 - 
 
 
